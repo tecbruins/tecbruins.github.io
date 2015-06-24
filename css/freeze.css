@@ -420,14 +420,14 @@ section#getApp .platforms .btn {
   margin-right: 10px;
   margin-bottom: 20px;
 }
-/* support section */
-section#support {
+/* subscribe section */
+section#subscribe {
   padding: 0 0 150px 0;
 }
-section#support .media {
+section#subscribe .media {
   margin-bottom: 10px;
 }
-section#support .media i.fa {
+section#subscribe .media i.fa {
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
@@ -442,11 +442,11 @@ section#support .media i.fa {
   width: 1.9em;
   text-align: center;
 }
-section#support .media .media-heading {
+section#subscribe .media .media-heading {
   padding-top: 15px;
   font-weight: 300;
 }
-section#support .media .media-heading a {
+section#subscribe .media .media-heading a {
   font-weight: 400;
 }
 /* footer section */
@@ -965,22 +965,22 @@ section#getApp .platforms .media:hover a i,
 section#getApp .platforms .media:hover a div.media-body {
   color: #66cdcc;
 }
-/* support section */
-section#support header h1:after {
+/* subscribe section */
+section#subscribe header h1:after {
   background: #66cdcc;
 }
-section#support .media i.fa {
+section#subscribe .media i.fa {
   border: 2px solid #66cdcc;
   color: #66cdcc;
 }
-section#support .media a {
+section#subscribe .media a {
   color: #66cdcc;
 }
-section#support .media:hover i.fa {
+section#subscribe .media:hover i.fa {
   color: #ffffff;
   background: #66cdcc;
 }
-section#support .media:hover h3 {
+section#subscribe .media:hover h3 {
   color: #66cdcc;
 }
 /* footer section */
